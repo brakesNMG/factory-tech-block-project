@@ -65,3 +65,15 @@ lesson content follows, but you must check them before you hand in:
 
 Copy an existing entry. `tile: [x, y]` sets its position in the town (the map is 40 by 24 tiles). `art`
 picks the drawing (`lectern` for a literature exhibit). The game counts exhibits automatically.
+
+## Editing with Claude Code (no JavaScript needed)
+
+This repo has a `CLAUDE.md` that tells Claude Code how to edit the content safely. Open the project in Claude Code and
+ask in plain English, for example:
+
+- "Rewrite the Water Frame lesson pages at a simpler reading level."
+- "Add a third quiz question about the Spinning Jenny."
+- "Explain the Dickens simile page so I can present it, then help me rewrite it in my own words."
+- "Update Works Cited: I read pages 40-60 of Hudson, add that."
+
+Work on a branch, open a pull request, and have the other person review before merging to `main`.
