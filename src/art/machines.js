@@ -12,6 +12,7 @@ export const MACHINE_SIZE = {
   iron: [28, 30],
   railway: [40, 24],
   notice: [24, 26],
+  lectern: [24, 26],
 };
 
 function shadow(ctx, w, h) {
@@ -161,5 +162,19 @@ export const MACHINES = {
     R(ctx, '2', 15, 12, 4, 3); R(ctx, '3', 16, 13, 2, 1);        // wax seal
     R(ctx, '0', 9, 4, 6, 1);                                     // heading
     R(ctx, 'w', 0, 1, 24, 2);                                    // little roof
+  },
+
+  // A reading stand with an open book and a candle, for the literature exhibits.
+  lectern(ctx) {
+    shadow(ctx, 24, 26);
+    R(ctx, 'n', 10, 14, 4, 10); R(ctx, 'w', 10, 14, 1, 10);      // post
+    R(ctx, 'n', 6, 22, 12, 3); R(ctx, 'w', 6, 22, 12, 1);        // foot
+    R(ctx, 'n', 3, 10, 18, 4); R(ctx, 'w', 3, 10, 18, 1);        // slanted top
+    R(ctx, 'c', 4, 3, 8, 8); R(ctx, 'c', 12, 3, 8, 8);           // open pages
+    R(ctx, 'd', 11, 3, 2, 8);                                    // spine
+    for (let y = 5; y < 10; y += 2) { R(ctx, 'e', 5, y, 5, 1); R(ctx, 'e', 14, y, 5, 1); }
+    R(ctx, '2', 3, 2, 1, 9); R(ctx, '2', 20, 2, 1, 9);           // red cover edges
+    R(ctx, 't', 20, 6, 2, 4); R(ctx, '4', 20, 3, 2, 3);          // candle and flame
+    R(ctx, '3', 20, 2, 2, 1);
   },
 };

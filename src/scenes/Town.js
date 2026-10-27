@@ -55,6 +55,7 @@ export default class Town extends Phaser.Scene {
     this.wasd = this.input.keyboard.addKeys('W,A,S,D');
     ['E', 'SPACE', 'ENTER'].forEach((k) => this.input.keyboard.on(`keydown-${k}`, () => this.interact()));
     this.input.keyboard.on('keydown-J', () => this.openJournal());
+    this.input.keyboard.on('keydown-C', () => this.openSources());
     this.input.keyboard.on('keydown-M', () => this.game.events.emit('muted', toggleMute()));
 
     this.scene.launch('HUD');
@@ -269,6 +270,14 @@ export default class Town extends Phaser.Scene {
     this.player.setVelocity(0, 0);
     this.scene.pause();
     this.scene.launch('Journal');
+  }
+
+  openSources() {
+    if (this.scene.isPaused()) return;
+    sfx.open();
+    this.player.setVelocity(0, 0);
+    this.scene.pause();
+    this.scene.launch('Sources', { from: 'town' });
   }
 
   onLessonClosed({ id, completed } = {}) {

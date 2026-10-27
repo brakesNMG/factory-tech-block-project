@@ -5,11 +5,10 @@ import { STATIONS } from '../data/stations.js';
 import { sfx } from '../util/sfx.js';
 
 const STORY =
-  'LANCASHIRE, ENGLAND. 1834.\n\n' +
-  'You are a young apprentice in the town of Millbrook, once a quiet village of cottage weavers. ' +
-  'Now chimneys fill the sky and machines clatter day and night.\n\n' +
-  'Your master, an engineer, sets you a task: walk the town, examine each great invention ' +
-  'that built it, and prove you understand how it works and why it mattered.';
+  'WELCOME TO THE COTTONOPOLIS MUSEUM OF FACTORY TECHNOLOGY\n\n' +
+  'This exhibit is set in Millbrook, Lancashire, 1834: a village of cottage weavers that became a mill town.\n\n' +
+  'Visit 8 machine exhibits and 2 literature exhibits. Learn how each invention worked, who it helped, ' +
+  'and who paid the price. Big idea: each invention solved one problem and created the next.';
 
 export default class Menu extends Phaser.Scene {
   constructor() { super('Menu'); }
@@ -20,12 +19,13 @@ export default class Menu extends Phaser.Scene {
 
     this.title = this.add.container(0, 0);
     const t1 = txt(this, W / 2, 62, 'COTTONOPOLIS', { size: 32, color: COLORS.gold, origin: [0.5, 0] });
-    const t2 = txt(this, W / 2, 106, 'A Tale of Steam & Spindles', { size: 8, color: COLORS.light, origin: [0.5, 0] });
-    const t3 = txt(this, W / 2, 122, 'The First Industrial Revolution, 1733-1834', { size: 8, color: COLORS.mute, origin: [0.5, 0] });
+    const t2 = txt(this, W / 2, 106, 'Museum of Factory Technology', { size: 8, color: COLORS.light, origin: [0.5, 0] });
+    const t3 = txt(this, W / 2, 122, 'A Tale of Steam & Spindles  -  Britain, 1709-1834', { size: 8, color: COLORS.mute, origin: [0.5, 0] });
     const pbox = panel(this, W / 2 - 130, 176, 260, 26);
     this.prompt = txt(this, W / 2, 185, 'PRESS SPACE OR CLICK TO BEGIN', { size: 8, color: COLORS.light, origin: [0.5, 0] });
     this.tweens.add({ targets: this.prompt, alpha: 0.2, yoyo: true, repeat: -1, duration: 600 });
-    this.title.add([t1, t2, t3, pbox, this.prompt]);
+    const t4 = txt(this, W / 2, 148, 'Press C for Works Cited', { size: 8, color: COLORS.mute, origin: [0.5, 0] });
+    this.title.add([t1, t2, t3, t4, pbox, this.prompt]);
 
     if (progress.count() > 0) {
       this.saved = txt(this, W / 2, 214, `Saved progress: ${progress.count()}/${STATIONS.length} inventions learned\nPress R to start over`, { size: 8, color: COLORS.good, origin: [0.5, 0], align: 'center' });
@@ -35,18 +35,25 @@ export default class Menu extends Phaser.Scene {
     this.storyBox.add([
       panel(this, 60, 40, W - 120, 280),
       txt(this, 84, 62, STORY, { wrap: W - 168, spacing: 6 }),
-      txt(this, 84, 214,
+      txt(this, 84, 196,
         'HOW TO PLAY\n' +
         'Arrows / WASD ... walk\n' +
         'E or SPACE ...... examine a machine\n' +
         'J ............... open your journal\n' +
+        'C ............... works cited (sources)\n' +
         'M ............... mute sound', { color: COLORS.gold, spacing: 6 }),
-      txt(this, W / 2, 296, 'PRESS SPACE TO ENTER MILLBROOK', { color: COLORS.good, origin: [0.5, 0] }),
+      txt(this, W / 2, 298, 'PRESS SPACE TO ENTER THE MUSEUM', { color: COLORS.good, origin: [0.5, 0] }),
     ]);
 
     this.input.keyboard.on('keydown-SPACE', () => this.next());
     this.input.keyboard.on('keydown-ENTER', () => this.next());
     this.input.on('pointerdown', () => this.next());
+    this.input.keyboard.on('keydown-C', () => {
+      if (this.scene.isPaused()) return;
+      sfx.open();
+      this.scene.pause();
+      this.scene.launch('Sources', { from: 'menu' });
+    });
     this.input.keyboard.on('keydown-R', () => {
       if (this.step === 0 && progress.count() > 0) { progress.reset(); this.scene.restart(); }
     });

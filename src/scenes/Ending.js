@@ -21,15 +21,17 @@ export default class Ending extends Phaser.Scene {
     sfx.win();
     this.add.rectangle(0, 0, W, H, 0x0e0f1a, 0.85).setOrigin(0).setInteractive();
     panel(this, 30, 12, 580, 336);
-    txt(this, W / 2, 26, 'MASTER ENGINEER!', { size: 16, color: COLORS.gold, origin: [0.5, 0] });
+    txt(this, W / 2, 26, 'MUSEUM COMPLETE!', { size: 16, color: COLORS.gold, origin: [0.5, 0] });
     txt(this, W / 2, 50, 'Each invention solved one bottleneck and exposed the next.', { color: COLORS.mute, origin: [0.5, 0] });
     CHAIN.forEach(([y, t], i) => {
-      txt(this, 56, 78 + i * 20, y, { color: COLORS.gold });
-      txt(this, 104, 78 + i * 20, t);
+      txt(this, 56, 70 + i * 18, y, { color: COLORS.gold });
+      txt(this, 104, 70 + i * 18, t);
     });
-    txt(this, 56, 246, 'SEE IT FOR REAL', { color: COLORS.good });
-    txt(this, 56, 260, 'Cromford Mill (Derbyshire)  -  Ironbridge Gorge (Shropshire)\nScience and Industry Museum (Manchester)', { color: COLORS.mute, spacing: 6, wrap: 520 });
-    const p = txt(this, W / 2, 316, 'PRESS SPACE TO KEEP EXPLORING', { origin: [0.5, 0] });
+    txt(this, 56, 218, 'LITERATURE', { color: COLORS.good });
+    txt(this, 56, 232, 'Blake and Dickens show how people felt about the machines.', { color: COLORS.mute, wrap: 520, spacing: 6 });
+    txt(this, 56, 252, 'SEE IT FOR REAL', { color: COLORS.good });
+    txt(this, 56, 266, 'Cromford Mill (Derbyshire)  -  Ironbridge Gorge (Shropshire)\nScience and Industry Museum (Manchester)', { color: COLORS.mute, spacing: 6, wrap: 520 });
+    const p = txt(this, W / 2, 316, 'PRESS SPACE TO KEEP EXPLORING  (THEN C = WORKS CITED)', { origin: [0.5, 0] });
     this.tweens.add({ targets: p, alpha: 0.25, yoyo: true, repeat: -1, duration: 600 });
     const done = () => {
       if (this.time.now - this.openedAt < 400) return;

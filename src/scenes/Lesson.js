@@ -18,6 +18,7 @@ export default class Lesson extends Phaser.Scene {
     this.reviewing = progress.has(this.station.id);
     this.newly = false;
     this.quiz = null;
+    this.qi = 0; // which quiz question we are on
   }
 
   create() {
@@ -85,7 +86,11 @@ export default class Lesson extends Phaser.Scene {
     if (!this.ready()) return;
     const step = this.steps[this.idx];
     if (step.type === 'activity' && !this.activity?.done) return;
-    if (step.type === 'quiz') { if (this.quiz?.solved) this.close(); return; }
+    if (step.type === 'quiz') {
+      if (!this.quiz?.solved) return;
+      if (this.qi < this.station.quiz.length - 1) { this.qi++; sfx.page(); this.show(this.idx); } else this.close();
+      return;
+    }
     if (this.idx === this.steps.length - 1) { this.close(); return; }
     this.go(1);
   }
@@ -123,7 +128,7 @@ export default class Lesson extends Phaser.Scene {
     const step = this.steps[this.idx];
     this.backBtn.setVisible(this.idx > 0);
     let label = last ? (this.reviewing ? 'CLOSE' : 'FINISH') : 'NEXT >';
-    if (step.type === 'quiz') label = 'FINISH';
+    if (step.type === 'quiz') label = this.qi < this.station.quiz.length - 1 ? 'NEXT >' : 'FINISH';
     this.nextLabel.setText(label);
     const blocked = (step.type === 'quiz' && !this.quiz?.solved) || (step.type === 'activity' && !this.activity?.done);
     this.nextBtn.setVisible(!blocked);
@@ -144,12 +149,13 @@ export default class Lesson extends Phaser.Scene {
 
   // ---------- quiz ----------
   buildQuiz(root) {
-    const q = this.station.quiz;
+    const total = this.station.quiz.length;
+    const q = this.station.quiz[this.qi];
     this.quiz = { sel: 0, solved: false, boxes: [], tries: 0 };
-    root.add(txt(this, RX, CY, 'CHECK YOUR KNOWLEDGE', { color: COLORS.gold }));
+    root.add(txt(this, RX, CY, `CHECK YOUR KNOWLEDGE  ${this.qi + 1}/${total}`, { color: COLORS.gold }));
     root.add(txt(this, RX, CY + 16, q.q, { wrap: RW, spacing: 6 }));
     q.options.forEach((opt, i) => {
-      const y = 96 + i * 46;
+      const y = 106 + i * 44;
       const g = this.add.graphics();
       const label = txt(this, RX + 28, y + 8, opt, { wrap: RW - 40, spacing: 4 });
       const num = txt(this, RX + 10, y + 8, String(i + 1), { color: COLORS.gold });
@@ -159,7 +165,7 @@ export default class Lesson extends Phaser.Scene {
       root.add([g, label, num, zone]);
       this.quiz.boxes.push({ g, y, state: 'idle' });
     });
-    this.quiz.feedback = txt(this, RX, 244, '', { wrap: RW, spacing: 6 });
+    this.quiz.feedback = txt(this, RX, 246, '', { wrap: RW, spacing: 6 });
     root.add(this.quiz.feedback);
     this.drawQuiz();
   }
@@ -184,14 +190,15 @@ export default class Lesson extends Phaser.Scene {
 
   pick(i) {
     if (this.view?.type !== 'quiz' || this.quiz.solved || !this.ready()) return;
-    const q = this.station.quiz;
+    const q = this.station.quiz[this.qi];
     const box = this.quiz.boxes[i];
     if (!box) return;
     this.quiz.sel = i;
     if (i === q.answer) {
       box.state = 'right';
       this.quiz.solved = true;
-      if (!progress.has(this.station.id)) { progress.add(this.station.id); this.newly = true; }
+      const lastQ = this.qi === this.station.quiz.length - 1;
+      if (lastQ && !progress.has(this.station.id)) { progress.add(this.station.id); this.newly = true; }
       this.quiz.feedback.setText(`CORRECT!  ${q.explain}`).setColor(COLORS.good);
       sfx.ok();
       this.cameras.main.flash(250, 167, 240, 112);

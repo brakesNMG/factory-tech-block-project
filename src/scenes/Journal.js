@@ -20,10 +20,10 @@ export default class Journal extends Phaser.Scene {
 
     this.listG = this.add.graphics();
     this.rows = this.entries.map((e, i) => {
-      const y = 58 + i * 34;
+      const y = 56 + i * 27;
       const done = progress.has(e.id);
-      const t = txt(this, 48, y + 5, done ? `${e.year}\n${e.name}` : '????\n???', { color: done ? COLORS.light : COLORS.mute, spacing: 3 });
-      const z = this.add.zone(36, y, 190, 30).setOrigin(0).setInteractive({ useHandCursor: true });
+      const t = txt(this, 46, y + 3, done ? `${e.year}\n${e.name}` : '????  ???', { color: done ? COLORS.light : COLORS.mute, spacing: 1 });
+      const z = this.add.zone(36, y, 190, 25).setOrigin(0).setInteractive({ useHandCursor: true });
       z.on('pointerdown', () => { this.sel = i; this.render(); sfx.blip(); });
       return { t, y };
     });
@@ -41,10 +41,10 @@ export default class Journal extends Phaser.Scene {
     this.listG.clear();
     this.rows.forEach((r, i) => {
       const sel = i === this.sel;
-      this.listG.fillStyle(0x1a1c2c, 1).fillRect(36, r.y, 190, 30);
-      this.listG.fillStyle(sel ? 0xffcd75 : 0x333c57, 1).fillRect(37, r.y + 1, 188, 28);
-      this.listG.fillStyle(sel ? 0x29366f : 0x1f2238, 1).fillRect(39, r.y + 3, 184, 24);
-      if (progress.has(this.entries[i].id)) this.listG.fillStyle(0xa7f070, 1).fillRect(210, r.y + 11, 8, 8);
+      this.listG.fillStyle(0x1a1c2c, 1).fillRect(36, r.y, 190, 25);
+      this.listG.fillStyle(sel ? 0xffcd75 : 0x333c57, 1).fillRect(37, r.y + 1, 188, 23);
+      this.listG.fillStyle(sel ? 0x29366f : 0x1f2238, 1).fillRect(39, r.y + 3, 184, 19);
+      if (progress.has(this.entries[i].id)) this.listG.fillStyle(0xa7f070, 1).fillRect(210, r.y + 9, 8, 8);
     });
     this.detail.removeAll(true);
     const e = this.entries[this.sel];
@@ -62,7 +62,7 @@ export default class Journal extends Phaser.Scene {
       txt(this, x, 84, `${e.year}  -  ${e.inventor}`, { color: COLORS.gold, wrap: w }),
       txt(this, x, 112, e.summary, { wrap: w, spacing: 6 }),
       txt(this, x, 172, 'REMEMBER', { color: COLORS.good }),
-      txt(this, x, 186, e.quiz.explain, { wrap: w, spacing: 6, color: COLORS.mute }),
+      txt(this, x, 186, e.quiz.map((q) => q.explain).join('\n\n'), { wrap: w, spacing: 6, color: COLORS.mute }),
     ]);
   }
 
