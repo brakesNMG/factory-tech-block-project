@@ -24,10 +24,10 @@ export default class HUD extends Phaser.Scene {
     this.add.image(0, 0, 'vignette').setOrigin(0);
 
     // progress strip
-    panel(this, 6, 6, 128, 30);
+    panel(this, 6, 6, 152, 30);
     txt(this, 14, 12, 'KNOWLEDGE', { color: COLORS.gold });
-    this.pips = STATIONS.map((_, i) => this.add.rectangle(14 + i * 14, 26, 10, 6, 0x333c57).setOrigin(0).setStrokeStyle(1, 0x1a1c2c));
-    this.count = txt(this, 126, 12, '', { origin: [1, 0] });
+    this.pips = STATIONS.map((_, i) => this.add.rectangle(14 + i * 13, 26, 10, 6, 0x333c57).setOrigin(0).setStrokeStyle(1, 0x1a1c2c));
+    this.count = txt(this, 150, 12, '', { origin: [1, 0] });
 
     // interaction prompt
     this.promptBox = this.add.container(W / 2, H - 40);
@@ -36,7 +36,7 @@ export default class HUD extends Phaser.Scene {
     this.promptBox.add([bg, this.promptText]).setVisible(false);
 
     // controls
-    this.hint = txt(this, W - 8, H - 12, 'WASD move   E examine   J journal   M sound', { color: COLORS.mute, origin: [1, 0] });
+    this.hint = txt(this, W - 8, H - 12, 'WASD move   E examine   J journal   C sources   M sound', { color: COLORS.mute, origin: [1, 0] });
     this.muteLabel = txt(this, W - 8, 10, '', { color: COLORS.bad, origin: [1, 0] });
 
     this.refresh();

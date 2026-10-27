@@ -7,6 +7,7 @@ import HUD from './scenes/HUD.js';
 import Lesson from './scenes/Lesson.js';
 import Journal from './scenes/Journal.js';
 import Ending from './scenes/Ending.js';
+import Sources from './scenes/Sources.js';
 import { W, H } from './util/ui.js';
 
 const game = new Phaser.Game({
@@ -19,7 +20,7 @@ const game = new Phaser.Game({
   roundPixels: true,
   physics: { default: 'arcade', arcade: { debug: false } },
   scale: { mode: Phaser.Scale.FIT, autoCenter: Phaser.Scale.CENTER_BOTH },
-  scene: [Boot, Menu, Town, HUD, Lesson, Journal, Ending],
+  scene: [Boot, Menu, Town, HUD, Lesson, Journal, Ending, Sources],
 });
 
 // Handy for debugging / automated tests.
