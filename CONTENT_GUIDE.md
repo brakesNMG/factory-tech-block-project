@@ -1,50 +1,21 @@
 # Content guide: how to edit the exhibit
 
-You do not need to know how to code. All the words live in three files in `src/data/`.
-Change the text between the quote marks, save, and the game updates (`npm run dev`).
+## Editing (plain text, no code)
+
+All the words live in the `content/` folder as simple text files. Read `content/README.md` for the format.
 
 | What you want to change | File |
 | --- | --- |
-| The 8 machine exhibits (lessons + quizzes) | `src/data/stations.js` |
-| The 2 literature exhibits (Blake, Dickens) | `src/data/literature.js` |
-| The Works Cited list | `src/data/sources.js` |
+| A machine exhibit (lesson pages + quizzes) | `content/exhibits/01-iron.md` to `08-factoryact.md` |
+| The Blake and Dickens literature exhibits | `content/exhibits/09-blake.md`, `10-dickens.md` |
+| The Works Cited list | `content/works-cited.md` |
 
-## Rubric map (30 points)
-
-| Rubric row | Where it is in the game |
-| --- | --- |
-| Knowledge of topic (15) | Each machine has 4 pages: what it was, how it worked, why it mattered, **who paid the price**. Two quiz questions each. The ending shows the bottleneck chain. |
-| Literature analysis (10) | Two exhibits: Blake's "Jerusalem" (1808) and Dickens's *Hard Times* (1854). Each has the quoted passage, 3 technique pages with examples, a link back to the machines, and a technique quiz. |
-| Organization and engagement (5) | Museum framing on the title screen, placards on every exhibit, a walkable town, a pressure mini-game, a journal, and an MLA Works Cited screen (press **C**). |
-
-## Editing a lesson
-
-```js
-pages: [
-  { title: 'Short page title', text: 'First paragraph.\n\nSecond paragraph.' },
-],
-```
-
-- `\n\n` makes a blank line. Put a `\` before an apostrophe inside single quotes: `Kay\'s`.
-- Keep a page to about 600 characters. The game shows about 16 lines per page.
-- Technique words in the literature exhibits are in CAPITALS so they stand out.
-
-## Editing a quiz
-
-```js
-{
-  q: 'The question?',
-  options: ['Answer A', 'Answer B', 'Answer C'],   // always exactly 3
-  answer: 1,                                         // 0 = first option, 1 = second, 2 = third
-  explain: 'Shown after a correct answer.',
-}
-```
-
-Keep the question under about 90 characters and each option under about 80 so they fit.
+Edit a file on GitHub (pencil icon) or on your computer, then run `npm run check` for a plain-English check, and
+`npm run dev` to see it in the game.
 
 ## Making the literature analysis yours
 
-The analysis in `literature.js` is a starting draft. Before you present it:
+The analysis in `content/exhibits/09-blake.md` and `10-dickens.md` is a starting draft. Before you present it:
 
 1. Read the full poem or chapter, then read each analysis page and check it against the text.
 2. Rewrite each technique page in your own words. Keep one quoted example per technique.
@@ -53,7 +24,7 @@ The analysis in `literature.js` is a starting draft. Before you present it:
 
 ## Works Cited
 
-`src/data/sources.js` lists the sources in MLA 9. These are standard references on the period that the
+`content/works-cited.md` lists the sources in MLA 9. These are standard references on the period that the
 lesson content follows, but you must check them before you hand in:
 
 - Delete any entry you did not actually read or use.
@@ -63,8 +34,8 @@ lesson content follows, but you must check them before you hand in:
 
 ## Adding or moving an exhibit
 
-Copy an existing entry. `tile: [x, y]` sets its position in the town (the map is 40 by 24 tiles). `art`
-picks the drawing (`lectern` for a literature exhibit). The game counts exhibits automatically.
+Copy an existing exhibit file into `content/exhibits/` and give it the next number. `tile: x, y` sets its position in the town
+(the map is 40 by 24 tiles). `art` picks the drawing (`lectern` for a literature exhibit). The game counts exhibits automatically.
 
 ## Editing with Claude Code (no JavaScript needed)
 

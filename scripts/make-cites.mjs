@@ -1,7 +1,7 @@
-// Writes WORKS_CITED.md from src/data/sources.js, keeping *italics* so it can be pasted into a doc.
-import { writeFileSync } from 'node:fs';
-import { SOURCES } from '../src/data/sources.js';
+// Writes WORKS_CITED.md from content/works-cited.md, formatted for pasting into a document.
+import { readFileSync, writeFileSync } from 'node:fs';
+import { parseSources } from '../src/data/parse.js';
 
-const body = SOURCES.map((s) => s.mla).join('\n\n');
-writeFileSync('WORKS_CITED.md', `# Works Cited\n\n${body}\n`);
-console.log(`Wrote WORKS_CITED.md (${SOURCES.length} entries)`);
+const sources = parseSources(readFileSync('content/works-cited.md', 'utf8'));
+writeFileSync('WORKS_CITED.md', `# Works Cited\n\n${sources.map((s) => s.mla).join('\n\n')}\n`);
+console.log(`Wrote WORKS_CITED.md (${sources.length} entries)`);

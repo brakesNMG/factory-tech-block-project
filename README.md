@@ -37,14 +37,14 @@ Progress is saved in `localStorage` (press **R** on the title screen to reset).
 - **No image files.** All pixel art is drawn in code at startup (`src/art/`) from one shared palette, so
   everything stays cohesive and easy to tweak. Tiles are 16x16; the game renders at 640x360 and scales up
   with nearest-neighbour filtering.
-- `src/data/stations.js`, `literature.js` and `sources.js` hold **all content**. Edit these to change the teaching (see `CONTENT_GUIDE.md`).
+- `content/` holds **all the text** as plain Markdown files (lessons, quizzes, literature, Works Cited). Edit these to change the teaching (see `content/README.md`).
 - `src/scenes/`: `Boot` (generates art) -> `Menu` -> `Town` (+ `HUD`) with `Lesson`, `Journal` and `Ending` overlays.
 - Sound effects are synthesized with WebAudio (`src/util/sfx.js`).
 
 ## Adding a new station
 
 1. Draw its machine in `src/art/machines.js` (and add its size to `MACHINE_SIZE`).
-2. Add an entry to `STATIONS` in `src/data/stations.js` (set `tile` to a free spot in the town).
+2. Add a new file in `content/exhibits/` (set `tile` to a free spot in the town; see `content/README.md`).
 3. Optional: give it an `activity` and add a builder to `src/scenes/Lesson.js` (see the steam engine).
 
 ## Further reading
