@@ -1,0 +1,19 @@
+{
+  "name": "cottonopolis",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A pixel-art educational game about factory technology in the First Industrial Revolution (Britain, 1733-1834).",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/press-start-2p": "^5.3.0",
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "vite": "^6.4.5"
+  }
+}
