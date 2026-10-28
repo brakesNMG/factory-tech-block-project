@@ -36,7 +36,7 @@ Progress is saved in `localStorage` (press **R** on the title screen to reset).
 
 The game is published automatically with GitHub Pages whenever something is merged into `main`. After the one-time
 setup (repo Settings, Pages, Source: GitHub Actions) the link is `https://<github-user>.github.io/factory-tech-block-project/`.
-If a content file has a mistake, the publish stops and the previous version stays up; see the Actions tab for the error.
+Merging into `main` is all it takes to update the live game. If a content file has a mistake, the publish stops and the previous version stays up; see the Actions tab for the error.
 
 ## How it is put together
 
