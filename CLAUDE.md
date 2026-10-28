@@ -18,5 +18,9 @@ and some are not technical. Explain changes in plain English and never ask them 
 - The student should understand and be able to explain what they submit, so offer to explain the literature analysis rather than just rewriting it.
 
 ## Working together
-- Make changes on a branch (for example `friend/edits`), commit, and open a pull request so the other student can review.
-- Pull the latest `main` before starting, to avoid conflicts in `content/`.
+Two students work on this, each on their own branch, and `main` always holds the version to present.
+- Each student has their own branch (for example `you/edits` and `friend/edits`). Commit and push to your own branch, never straight to `main`.
+- Before starting work, bring the latest `main` into your branch (`git pull origin main`) so you are not editing an old copy.
+- When a chunk of work is done and `npm run check` passes, merge your branch into `main` yourself. No review is needed. Merging on GitHub (open a pull request and click Merge) or locally both work.
+- Split the exhibits between you to avoid conflicts, and do not both edit `content/works-cited.md` at the same time.
+- If a merge conflict happens, resolve it by keeping both people's text where possible and explain what you did in plain English.

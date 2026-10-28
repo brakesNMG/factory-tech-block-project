@@ -47,4 +47,6 @@ ask in plain English, for example:
 - "Explain the Dickens simile page so I can present it, then help me rewrite it in my own words."
 - "Update Works Cited: I read pages 40-60 of Hudson, add that."
 
-Work on a branch, open a pull request, and have the other person review before merging to `main`.
+Each of you works on your own branch (for example `you/edits` and `friend/edits`). Before you start, bring the latest `main`
+into your branch. When a chunk of work is done and `npm run check` passes, merge your branch into `main` yourself. No
+review is needed. Split the exhibits between you, and don't both edit `content/works-cited.md` at the same time.
