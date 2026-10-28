@@ -26,7 +26,7 @@ your journal. A Works Cited screen (MLA 9) is built in. **To edit the content, r
 ```bash
 npm install
 npm run dev      # http://localhost:5173
-npm run build    # static site in dist/
+npm run build    # static site in docs/ (commit it; GitHub Pages serves it)
 ```
 
 Controls: **WASD / arrows** walk, **E / Space** examine, **J** journal, **C** works cited, **M** mute, **Esc** closes a lesson.
@@ -34,9 +34,9 @@ Progress is saved in `localStorage` (press **R** on the title screen to reset).
 
 ## Playing it online
 
-The game is published automatically with GitHub Pages whenever something is merged into `main`. After the one-time
-setup (repo Settings, Pages, Source: GitHub Actions) the link is `https://<github-user>.github.io/factory-tech-block-project/`.
-Merging into `main` is all it takes to update the live game. If a content file has a mistake, the publish stops and the previous version stays up; see the Actions tab for the error.
+GitHub Pages serves the built game from the `docs/` folder on `main` (repo Settings, Pages, Deploy from a branch,
+`main`, `/docs`). After changing any text in `content/`, run `npm run build` and commit the updated `docs/` folder,
+then merge into `main`. The live link is `https://<github-user>.github.io/factory-tech-block-project/`.
 
 ## How it is put together
 
