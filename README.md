@@ -32,6 +32,12 @@ npm run build    # static site in dist/
 Controls: **WASD / arrows** walk, **E / Space** examine, **J** journal, **C** works cited, **M** mute, **Esc** closes a lesson.
 Progress is saved in `localStorage` (press **R** on the title screen to reset).
 
+## Playing it online
+
+The game is published automatically with GitHub Pages whenever something is merged into `main`. After the one-time
+setup (repo Settings, Pages, Source: GitHub Actions) the link is `https://<github-user>.github.io/factory-tech-block-project/`.
+If a content file has a mistake, the publish stops and the previous version stays up; see the Actions tab for the error.
+
 ## How it is put together
 
 - **No image files.** All pixel art is drawn in code at startup (`src/art/`) from one shared palette, so
