@@ -7,7 +7,7 @@ import { sfx } from '../util/sfx.js';
 const STORY =
   'WELCOME TO THE COTTONOPOLIS MUSEUM OF FACTORY TECHNOLOGY\n\n' +
   'This exhibit is set in Millbrook, Lancashire, 1834: a village of cottage weavers that became a mill town.\n\n' +
-  'Visit 8 machine exhibits and 2 literature exhibits. Learn how each invention worked, who it helped, ' +
+  'Visit 8 machine exhibits. Learn how each invention worked, who it helped, ' +
   'and who paid the price. Big idea: each invention solved one problem and created the next.';
 
 export default class Menu extends Phaser.Scene {

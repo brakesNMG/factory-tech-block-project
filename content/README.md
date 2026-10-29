@@ -2,7 +2,7 @@
 
 Every word in the game is in this folder. You do not need to code. Open a file, change the text, save.
 
-- `exhibits/` has one file per exhibit (8 machines, then Blake and Dickens). The number at the start of the file name is the order.
+- `exhibits/` has one file per exhibit (the 8 machines). The number at the start of the file name is the order.
 - `works-cited.md` is the MLA Works Cited list.
 
 On GitHub you can click a file, press the pencil icon, edit, and commit. To see the game with your changes, run
@@ -38,5 +38,4 @@ Explain: Shown after the player gets it right.
 - Add as many `## Page:` sections as you like. About 600 characters per page fits on screen.
 - Keep quiz questions under about 90 characters and answers under about 80.
 - To add a quiz question, add another `## Quiz` section. To remove a page, delete its `## Page:` section.
-- Technique words in the literature exhibits are in CAPITALS on purpose, so they stand out.
 - Quote passages exactly, and only list sources in `works-cited.md` that you really used.

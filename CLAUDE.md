@@ -5,7 +5,7 @@ literature analysis 10, organization and engagement with an MLA Works Cited 5). 
 and some are not technical. Explain changes in plain English and never ask them to edit JavaScript by hand.
 
 ## Where things are
-- All content is plain-text Markdown in `content/`: `exhibits/*.md` (8 machine exhibits, then Blake and Dickens) and `works-cited.md`.
+- All content is plain-text Markdown in `content/`: `exhibits/*.md` (the 8 machine exhibits) and `works-cited.md`.
 - `content/README.md` explains the file format. Read it before editing content. `src/data/parse.js` is the parser.
 - Game code is in `src/scenes/`. Only touch it if the student asks for a feature change.
 
@@ -15,7 +15,7 @@ and some are not technical. Explain changes in plain English and never ask them 
 - Quote passages exactly. Do not invent facts, quotes or sources. If unsure, say so and ask the student to check.
 - Works Cited entries must be real sources the student actually used. Never add one just to fill the list.
 - After changes run `npm run check` (plain-English errors), and `npm run cites` if `works-cited.md` changed.
-- The student should understand and be able to explain what they submit, so offer to explain the literature analysis rather than just rewriting it.
+- The student should understand and be able to explain what they submit, so offer to explain the lesson content rather than just rewriting it.
 
 ## Working together
 Two students work on this, each on their own branch, and `main` always holds the version to present.
