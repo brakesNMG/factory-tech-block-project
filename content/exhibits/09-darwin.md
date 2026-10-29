@@ -1,0 +1,70 @@
+# Darwin: Steam Poem
+year: 1791
+by: Erasmus Darwin (poet and physician)
+summary: A poem that speaks straight to steam and predicts steam boats, carriages and even flight.
+tile: 23, 8
+art: lectern
+
+## Page: Literature: the poet
+Erasmus Darwin (1731-1802) was an English doctor, inventor and poet. He knew engineers such as Matthew Boulton and James Watt, so he understood how new and exciting steam power was.
+
+In 1791 he published "The Botanic Garden", Part 1, "The Economy of Vegetation". This long poem contains a famous passage about the steam engine.
+
+## Page: The passage
+Soon shall thy arm, UNCONQUER'D STEAM! afar
+Drag the slow barge, or drive the rapid car;
+Or on wide-waving wings expanded bear
+The flying-chariot through the fields of air.
+
+- Erasmus Darwin, "The Botanic Garden", Part 1, Canto I (1791)
+
+## Page: Technique: apostrophe and personification
+Darwin uses APOSTROPHE: he speaks straight to "Steam", as if it could hear him. He also uses PERSONIFICATION by giving steam an "arm" that can pull and push.
+
+"Unconquer'd" is a word for a warrior. Steam becomes a hero that cannot be beaten, which shows how powerful Darwin thought the new engines were.
+
+## Page: Technique: prediction and contrast
+"Soon shall" looks to the future, so the passage is a PREDICTION. Darwin pictures steam hauling boats and carriages, and even a "flying-chariot". Steam railways came in the 1820s, and powered flight more than a century later.
+
+He also sets "slow" barges against "rapid" cars. This CONTRAST shows old transport being left behind.
+
+## Page: Technique: sound and form
+The lines are HEROIC COUPLETS: pairs of rhyming lines ("afar" and "car", "bear" and "air") with a steady beat. This grand, ordered form was used for epic poems about heroes, so it gives the machine dignity.
+
+ALLITERATION, the repeated first sound in "wide-waving wings", makes the flying image feel smooth and sweeping.
+
+## Page: Tone and message
+The TONE of these lines is proud, confident and excited. Darwin sees steam as a servant that will make travel faster. He does not mention smoke, danger or the workers who tend the engines.
+
+That is ONE side of how people felt in 1791. Carlyle's essay, in the next exhibit, takes a very different view.
+
+## Page: Link to the machines
+Watt's improved engines were first sold from 1776 (see the Steam Engine exhibit). Darwin wrote only 15 years later, and already imagined steam on water, on roads and even in the air.
+
+The poem shows how excited some people were about the future of steam.
+
+## Page: Source
+Read the poem yourself: Erasmus Darwin, "The Botanic Garden, a Poem in Two Parts. Part 1: The Economy of Vegetation", on Project Gutenberg (www.gutenberg.org/ebooks/9612).
+
+Full details are in the Works Cited (press C).
+
+## Quiz
+Q: What technique is Darwin using when he speaks directly to "Steam"?
+- [x] Apostrophe: speaking straight to a thing as if it could hear
+- [ ] Dialogue between two people
+- [ ] A literal weather report
+Explain: Speaking directly to something that cannot answer is apostrophe. It makes steam feel like a mighty person.
+
+## Quiz
+Q: What does giving steam an "arm" show about how Darwin sees it?
+- [ ] It is a literal part of a steam engine
+- [x] Personification: steam is strong, like a person
+- [ ] It is weak and easily beaten
+Explain: Steam has no real arm. Giving it one is personification, and "unconquer'd" makes it a hero.
+
+## Quiz
+Q: What is Darwin's tone toward steam in these lines?
+- [ ] Fearful and angry
+- [x] Proud and hopeful about its future
+- [ ] Bored and neutral
+Explain: "Soon shall" and "unconquer'd" show confidence and excitement. Darwin celebrates steam and predicts great things.

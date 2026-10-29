@@ -4,7 +4,7 @@ A pixel-art educational game built with [Phaser 3](https://phaser.io) about fact
 **First Industrial Revolution** (Britain, 1709-1834).
 
 Built as a school museum exhibit. Walk the fictional Lancashire mill town of Millbrook (1834), visit eight
-real inventions, read short
+real inventions and two literature exhibits (Erasmus Darwin's steam poem and Thomas Carlyle's "Signs of the Times"), read short
 lessons that include the human cost of each technology, try a hands-on activity, and pass quizzes to fill in
 your journal. A Works Cited screen (MLA 9) is built in. **To edit the content, read `CONTENT_GUIDE.md`.**
 
@@ -18,6 +18,8 @@ your journal. A Works Cited screen (MLA 9) is built in. **To edit the content, r
 | Power Loom | 1785 | Mechanised weaving and its social cost |
 | Locomotive | 1829 | Rocket and the Liverpool & Manchester Railway |
 | Factory Notice | 1833 | The Factory Act and the first inspectors |
+| Darwin: Steam Poem | 1791 | Literature: apostrophe, personification, prediction, heroic couplets |
+| Carlyle: Mechanical Age | 1829 | Literature: list and climax, double meaning, parallelism, tone |
 
 ## Run it
 
@@ -35,7 +37,7 @@ Progress is saved in `localStorage` (press **R** on the title screen to reset).
 - **No image files.** All pixel art is drawn in code at startup (`src/art/`) from one shared palette, so
   everything stays cohesive and easy to tweak. Tiles are 16x16; the game renders at 640x360 and scales up
   with nearest-neighbour filtering.
-- `content/` holds **all the text** as plain Markdown files (lessons, quizzes, Works Cited). Edit these to change the teaching (see `content/README.md`).
+- `content/` holds **all the text** as plain Markdown files (lessons, quizzes, literature, Works Cited). Edit these to change the teaching (see `content/README.md`).
 - `src/scenes/`: `Boot` (generates art) -> `Menu` -> `Town` (+ `HUD`) with `Lesson`, `Journal` and `Ending` overlays.
 - Sound effects are synthesized with WebAudio (`src/util/sfx.js`).
 

@@ -27,8 +27,10 @@ export default class Ending extends Phaser.Scene {
       txt(this, 56, 70 + i * 18, y, { color: COLORS.gold });
       txt(this, 104, 70 + i * 18, t);
     });
-    txt(this, 56, 228, 'SEE IT FOR REAL', { color: COLORS.good });
-    txt(this, 56, 242, 'Cromford Mill (Derbyshire)  -  Ironbridge Gorge (Shropshire)\nScience and Industry Museum (Manchester)', { color: COLORS.mute, spacing: 6, wrap: 520 });
+    txt(this, 56, 218, 'LITERATURE', { color: COLORS.good });
+    txt(this, 56, 232, 'Darwin cheered steam on; Carlyle warned of a Mechanical Age.', { color: COLORS.mute, wrap: 520, spacing: 6 });
+    txt(this, 56, 252, 'SEE IT FOR REAL', { color: COLORS.good });
+    txt(this, 56, 266, 'Cromford Mill (Derbyshire)  -  Ironbridge Gorge (Shropshire)\nScience and Industry Museum (Manchester)', { color: COLORS.mute, spacing: 6, wrap: 520 });
     const p = txt(this, W / 2, 316, 'PRESS SPACE TO KEEP EXPLORING  (THEN C = WORKS CITED)', { origin: [0.5, 0] });
     this.tweens.add({ targets: p, alpha: 0.25, yoyo: true, repeat: -1, duration: 600 });
     const done = () => {
