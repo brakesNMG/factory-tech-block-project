@@ -6,31 +6,23 @@ tile: 5, 7
 art: shuttle
 
 ## Page: Weaving before the shuttle
-Weaving means crossing a thread (the weft) over and under the long threads held tight on the loom (the warp).
-
 On a wide loom a weaver could not reach across to pass the shuttle by hand, so wide cloth needed TWO people sitting side by side.
 
 ## Page: John Kay's idea (1733)
-Kay, from Lancashire, fitted a box at each end of the loom and linked the shuttle to a handle by cords.
-
-A sharp tug of the handle "flicked" the shuttle across. One weaver could now weave broad cloth alone, and much faster.
+John Kay put a box at both of the ends of the loom and linked shuttle them to chords.
+When someone tugs  the handle it flicks the shuttle. A single weaver after this adjusments could weave wide cloth by themself which much more sped.
 
 ## Page: A problem it created
-Faster weaving used up yarn faster than hand-spinners could make it. Spinners could not keep up.
-
-This is a pattern you will see all game: fixing one bottleneck exposes the next one. Look for the Spinning Jenny next!
+When a weaver can weave a lot faster that uses yarn a lot faster than the people who make yarn can make it. Yarn spinners(people who make yarn) could not keep up with the weavers.
 
 ## Page: Who paid the price?
-Faster weaving was good for owners and customers, but not everyone gained. Tradition says a mob attacked Kay's house in Bury in 1753, afraid his device would take their work. Kay later left for France and struggled to collect fees on his patent.
-
-Inventors often earned less than the manufacturers who used their ideas.
-
+When weavers could weave faster is greatly benifited their customers and the weavers. But not everyone benifited from this. A mob attacked John Kay's house in 1753. They were afraid that his device would unemploy them. After this Kay fleed to france.
 ## Quiz
-Q: What problem did the Flying Shuttle solve?
+Q: What problem did the John Kay's invention solve?
 - [x] Weavers needed a helper to pass the shuttle on wide looms
 - [ ] Cotton could not be grown in Britain
-- [ ] Looms could not be powered by water
-Explain: Kay's cords and spring let ONE weaver throw the shuttle across a wide loom. Weaving sped up, which then created a yarn shortage.
+- [ ] Looms started exploding spontaneously.
+Explain: Kay's cords and spring let a single weaver throw the shuttle across a wide loom. Weaving sped up, which then unforncreated a yarn shortage.
 
 ## Quiz
 Q: Why did the Flying Shuttle create a need for the Spinning Jenny?
