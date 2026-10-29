@@ -1,38 +1,34 @@
-# Coke & Iron
+# Coke & Iron Machine
 year: 1709
 by: Abraham Darby, later Henry Cort
-summary: Coke-smelted iron and puddling made strong, cheap iron for machines, bridges and rails.
+summary: This machine allowed for iron to be manufactured cheaply and allowed iron to be used in other machines bridges and rails.
 tile: 6, 17
 art: iron
 
 ## Page: Iron ran out of trees
-Iron was smelted with charcoal, made by burning wood. Forests were being used up, which limited how much iron could be made.
+Since this machine was run by coal which was made with charcoal which is made from burnt wood which is comes from trees. The machines use was limited by the amount of trees in the area. 
 
 ## Page: Coke at Coalbrookdale (1709)
-Abraham Darby smelted iron using COKE, which is coal baked to drive off impurities. Coal was plentiful in Britain, so iron became cheaper over time.
+Abraham Darby smelted iron using COKE which is baked coal to remove impurities. Britain had  a lot of coal so it wasn't a limiting factor, it also let coal get cheaper over time.
 
-Darby's family later helped build the Iron Bridge (1779), the first major bridge made of cast iron.
+Darby and his family helped built the  Iron bridge in 1779. It was the first bridge built mostly out of cast iron.
 
 ## Page: Puddling and rolling (1783-84)
-Cast iron is hard but brittle. Henry Cort's PUDDLING process stirred molten iron to burn off carbon, making tougher wrought iron, and rolling mills shaped it quickly.
-
-Strong iron meant better machine frames, steam-engine parts, and later rails.
+Cast iron which is the type of iron that comes out of this machine is hard but it is very brittle. Puddling which is a process invented by Henry Cort stirred moletn iron to burn off carbon which made it tougher. This helped make iron stronger.
 
 ## Page: Who paid the price?
-Ironmaking and coal mining went together. Mines were dangerous, and in the early 1800s children as young as five or six worked underground opening doors and hauling coal. Furnaces and forges filled valleys with smoke.
-
-In 1842 a law banned women and boys under 10 from working underground.
+Coal mining and ironmaking were very similar. Mines were very dangerous and kindergarten age children mined coal in the early 1800s. A las in 1842 banned children under the age of 10 to work in the coal mines.
 
 ## Quiz
-Q: Why was coke important for ironmaking?
-- [x] It let ironmakers use plentiful coal instead of scarce wood charcoal
+Q: Why was using coke instead of normal coal important for ironmaking?
+- [x] It let ironmakers use better pure coal instead of rare wood charcoal
 - [ ] It made iron lighter than wood
-- [ ] It was used to colour iron black
-Explain: Coke, baked from coal, replaced charcoal. Britain had lots of coal, so iron production could grow with industry.
+- [ ] It was used to colour iron black and to make it stronger
+Explain: Coke which is baked from coal, replaced charcoal which was limiting. Britain had lots of coal but not as much wood, so iron production could scale larger.
 
 ## Quiz
-Q: How did cheaper iron change other industries?
+Q: How did cheaper iron change affect other industries?
 - [ ] It was only used for cooking pots
 - [ ] Iron became rarer and more expensive
 - [x] More machines, bridges and rails could be built
-Explain: Cheap strong iron made machine frames, steam-engine parts, bridges and later railway tracks possible.
+Explain: Cheaper stronger iron made machine frames, steam engines and full cast iron bridges better and easier to make.
