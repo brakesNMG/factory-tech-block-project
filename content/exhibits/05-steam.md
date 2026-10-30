@@ -7,35 +7,40 @@ art: steam
 activity: steam
 
 ## Page: Heat into motion
-Burning coal boils water. Steam pushes a piston. A beam, crank, and flywheel turn that push into motion that can drive machinery.
+Burning coal boils water, and the steam pushes a piston. Thomas Newcomen's engine, built in 1712, used this principle to pump water out of mines.
 
-Thomas Newcomen's engine (1712) already pumped water out of mines, but it wasted huge amounts of coal.
+It worked, but it wasted enormous amounts of coal, because the cylinder was heated and then cooled again on every stroke.
 
 ## Page: Watt's separate condenser
-James Watt realised Newcomen's engine wasted heat by cooling the cylinder every stroke. His fix, a SEPARATE CONDENSER (patented 1769), kept the cylinder hot.
+In 1765 James Watt realized that the engine would waste far less heat if the steam were condensed in a separate chamber, leaving the cylinder hot. He patented this SEPARATE CONDENSER in 1769.
 
-Partnered with Matthew Boulton, Watt sold engines from 1776 that used far less coal.
+Partnering with the manufacturer Matthew Boulton, Watt began building engines commercially in the 1770s that used much less coal.
 
 ## Page: Rotary power for factories
-In the early 1780s Watt's engines were adapted to turn a shaft round and round. Now a mill could be built ANYWHERE coal could be carried: in towns, near workers and markets.
+Pumping needed only an up-and-down motion, but machinery needs a spinning shaft. By the 1780s Boulton and Watt were building ROTATIVE engines, and the Science Museum Group holds one built in 1788.
 
-Now it is your turn: keep the boiler pressure steady to run the engine!
+Because coal could be carried almost anywhere, a mill no longer had to stand beside a river. Now it is your turn: keep the boiler pressure steady to run the engine!
 
 ## Page: Who paid the price?
-Steam power let mills run all year, even when rivers froze or ran dry. It also meant more coal, more smoke and more danger. Boilers could explode, and towns grew sooty and crowded as workers moved close to the mills.
+Steam let mills run all year, even when rivers froze or ran dry, but it also meant more coal, more smoke, and new dangers such as boiler explosions.
 
-The engine, not the worker, now set the pace of the day.
+Mills moved into towns, which grew sooty and crowded as workers settled near them. The engine, not the worker, now set the rhythm of the day.
+
+## Page: Sources
+Encyclopaedia Britannica: "Watt Steam Engine". Science Museum Group: "Rotative Steam Engine by Boulton and Watt, 1788".
+
+Full details are in the Works Cited (press C).
 
 ## Quiz
 Q: What was the key improvement in Watt's engine?
-- [x] A separate condenser, so the cylinder stayed hot and less coal was wasted
-- [ ] It replaced coal with wood
+- [x] A separate condenser kept the cylinder hot and saved coal
+- [ ] It burned wood instead of coal
 - [ ] It was the first engine ever used to pump water
-Explain: Newcomen's engines already pumped water. Watt's separate condenser stopped the cylinder cooling every stroke, saving a lot of fuel.
+Explain: Newcomen's engines already pumped water. Watt's separate condenser stopped the cylinder cooling on every stroke, saving a great deal of fuel.
 
 ## Quiz
 Q: Why did steam engines let factories move into towns?
 - [ ] They ran on wind power
-- [ ] They were small enough to fit in a house
+- [ ] They were small enough to fit inside a house
 - [x] They needed coal, not a fast river, so mills could stand anywhere
-Explain: Water wheels tied mills to rivers. Steam engines only needed coal, so factories could be built near workers and markets.
+Explain: Water wheels tied mills to rivers. Steam engines needed only coal, so factories could be built near workers and markets.

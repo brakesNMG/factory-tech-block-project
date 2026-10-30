@@ -1,34 +1,50 @@
-# Coke & Iron Machine
+# Coke & Iron
 year: 1709
-by: Abraham Darby, later Henry Cort
-summary: This machine allowed for iron to be manufactured cheaply and allowed iron to be used in other machines bridges and rails.
+by: Abraham Darby; later Henry Cort
+summary: Coke-fired furnaces and puddling gave Britain cheap, strong iron for machines, bridges and rails.
 tile: 6, 17
 art: iron
 
-## Page: Iron ran out of trees
-Since this machine was run by coal which was made with charcoal which is made from burnt wood which is comes from trees. The machines use was limited by the amount of trees in the area. 
+## Page: A fuel shortage
+Smelting turns iron ore into metal, and for centuries furnaces burned charcoal, which is made by burning wood. As forests shrank, wood supplies limited how much iron Britain could produce.
 
-## Page: Coke at Coalbrookdale (1709)
-Abraham Darby smelted iron using COKE which is baked coal to remove impurities. Britain had  a lot of coal so it wasn't a limiting factor, it also let coal get cheaper over time.
+Every machine in this museum needed iron, so a fuel shortage threatened the whole chain of invention.
 
-Darby and his family helped built the  Iron bridge in 1779. It was the first bridge built mostly out of cast iron.
+## Page: Darby's coke (1709)
+In 1709 Abraham Darby began smelting iron at Coalbrookdale in Shropshire using COKE, which is coal baked to drive off impurities. Britain had abundant coal, and coke could support much larger furnaces than charcoal.
 
-## Page: Puddling and rolling (1783-84)
-Cast iron which is the type of iron that comes out of this machine is hard but it is very brittle. Puddling which is a process invented by Henry Cort stirred moletn iron to burn off carbon which made it tougher. This helped make iron stronger.
+At first the iron suited cast goods such as pots and kettles. Over the following decades, cheaper iron spread into machinery.
+
+## Page: Strength and its limits
+Darby's grandson, Abraham Darby III, built the Iron Bridge over the River Severn. It was completed in 1779 and opened in 1781, and it is often called the world's first major iron bridge.
+
+Cast iron resists crushing but is brittle: it can snap under sudden strain. Engineers needed a tougher metal.
+
+## Page: Cort's puddling (1783-84)
+Henry Cort patented grooved rollers in 1783 and the puddling furnace in 1784. In PUDDLING, workers stir molten pig iron so that carbon burns away, leaving tougher wrought iron.
+
+Rollers then shaped the iron into bars far faster than hammering, so strong iron could be produced on a large scale.
 
 ## Page: Who paid the price?
-Coal mining and ironmaking were very similar. Mines were very dangerous and kindergarten age children mined coal in the early 1800s. A las in 1842 banned children under the age of 10 to work in the coal mines.
+Coal and iron both depended on mining, and mining was brutal. In 1842 a royal commission report on women and children in the mines shocked the public, and Parliament passed the Mines and Collieries Act that year.
+
+The Act banned women, girls, and boys under ten from working underground.
+
+## Page: Sources
+Encyclopaedia Britannica: "Abraham Darby" and "Henry Cort". English Heritage: "Pioneers of Industry". UK Parliament: "Coal Mines".
+
+Full details are in the Works Cited (press C).
 
 ## Quiz
-Q: Why was using coke instead of normal coal important for ironmaking?
-- [x] It let ironmakers use better pure coal instead of rare wood charcoal
-- [ ] It made iron lighter than wood
-- [ ] It was used to colour iron black and to make it stronger
-Explain: Coke which is baked from coal, replaced charcoal which was limiting. Britain had lots of coal but not as much wood, so iron production could scale larger.
+Q: Why did coke give ironmakers an advantage over charcoal?
+- [ ] It burned cooler, which made the iron lighter
+- [x] It relied on plentiful coal instead of a wood supply that was running short
+- [ ] It let furnaces make iron without using ore
+Explain: Charcoal needed forests that were disappearing. Coke came from coal, which Britain had in abundance, so iron production could grow.
 
 ## Quiz
-Q: How did cheaper iron change affect other industries?
-- [ ] It was only used for cooking pots
-- [ ] Iron became rarer and more expensive
-- [x] More machines, bridges and rails could be built
-Explain: Cheaper stronger iron made machine frames, steam engines and full cast iron bridges better and easier to make.
+Q: Why did puddling matter to machine builders?
+- [x] It made tougher wrought iron that was less brittle than cast iron
+- [ ] It made cast iron easier to melt
+- [ ] It replaced iron with wood in machine frames
+Explain: Cast iron could snap under strain. Puddled wrought iron was tougher, which suited engine parts and machine frames.

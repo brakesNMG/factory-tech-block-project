@@ -6,35 +6,40 @@ tile: 11, 7
 art: jenny
 
 ## Page: One thread at a time
-Spinning twists loose fibres into strong thread. On a traditional spinning wheel, a spinner made just ONE thread at a time.
+Spinning twists loose fibres into thread. On a traditional spinning wheel, a spinner made just one thread at a time.
 
-After the flying shuttle, weavers were waiting on spinners. Thread was the bottleneck.
+After the flying shuttle sped up weaving, thread became the bottleneck. Weavers waited on spinners.
 
 ## Page: Hargreaves' jenny (about 1764)
-James Hargreaves, a weaver near Blackburn, built a frame where a single wheel turned SEVERAL spindles at once.
+James Hargreaves, a weaver near Blackburn, built a frame in which one hand-turned wheel drove several spindles at once. Early versions spun about eight threads together, and later models carried many more.
 
-Early jennies had about eight spindles. Later ones had 80 or more. One worker could do the work of many.
+He patented the jenny in 1770, but the patent was later challenged because he had already sold several machines.
 
 ## Page: Small, cheap, and in the home
-The jenny was hand-powered and small enough for a cottage. It did not need a factory.
+The jenny was light, hand-powered, and small enough for a cottage, so it did not require a factory.
 
-But the thread was fairly weak, good for the soft weft but not the strong warp. Something stronger was needed...
+However, its thread was fairly weak. It worked for the soft weft but not for the tight warp. Spinners needed a stronger thread.
 
 ## Page: Who paid the price?
-Not everyone welcomed the jenny. In 1768 angry spinners broke into Hargreaves' home near Blackburn and smashed his machines. He moved to Nottingham.
+Hand spinning had been a source of income for many women working at home, so a machine that multiplied one spinner's output threatened that income.
 
-Hand-spinning had been a way for women in cottages to earn money. A machine that did the work of many spinners threatened that income.
+In the late 1760s, rival spinners broke into Hargreaves' home near Blackburn and destroyed his machines. He moved to Nottingham, where he continued his work.
+
+## Page: Sources
+Encyclopaedia Britannica: "James Hargreaves".
+
+Full details are in the Works Cited (press C).
 
 ## Quiz
 Q: What made the Spinning Jenny so productive?
-- [ ] It was powered by a steam engine
+- [ ] A steam engine drove it
 - [x] One wheel turned many spindles at the same time
 - [ ] It wove cloth instead of spinning thread
-Explain: Multiple spindles driven by one hand-turned wheel meant one spinner could produce many threads at once. It was hand-powered, not steam-powered.
+Explain: Many spindles driven by one hand-turned wheel meant one spinner could produce many threads at once. It was hand-powered, not steam-powered.
 
 ## Quiz
 Q: Why was the jenny's thread not enough on its own?
-- [ ] It was too expensive for cottages
-- [ ] It could only spin silk
-- [x] It was too weak for the warp, so a stronger thread was needed
-Explain: Jenny thread suited the soft weft but not the tight warp. The water frame solved this next.
+- [ ] It could only be made from silk
+- [ ] It was too expensive for cottage spinners
+- [x] It was too weak for the warp, so stronger thread was needed
+Explain: Jenny thread suited the weft but not the warp. Arkwright's water frame addressed that problem next.

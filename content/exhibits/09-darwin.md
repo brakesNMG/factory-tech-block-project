@@ -6,9 +6,9 @@ tile: 23, 8
 art: lectern
 
 ## Page: Literature: the poet
-Erasmus Darwin (1731-1802) was an English doctor, inventor and poet. He knew engineers such as Matthew Boulton and James Watt, so he understood how new and exciting steam power was.
+Erasmus Darwin (1731-1802) was an English doctor, inventor and poet. In 1766 he helped found the Lunar Society of Birmingham, a discussion group of scientists and manufacturers that also included Matthew Boulton and James Watt.
 
-In 1791 he published "The Botanic Garden", Part 1, "The Economy of Vegetation". This long poem contains a famous passage about the steam engine.
+Part 1 of his long poem "The Botanic Garden", titled "The Economy of Vegetation", has a title page dated 1791. It contains a famous passage about the steam engine.
 
 ## Page: The passage
 Soon shall thy arm, UNCONQUER'D STEAM! afar
