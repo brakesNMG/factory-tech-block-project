@@ -16,7 +16,7 @@ In 1709 Abraham Darby began smelting iron at Coalbrookdale in Shropshire using C
 At first the iron suited cast goods such as pots and kettles. Over the following decades, cheaper iron spread into machinery.
 
 ## Page: Strength and its limits
-Darby's grandson, Abraham Darby III, built the Iron Bridge over the River Severn. It was completed in 1779 and opened in 1781, and it is often called the world's first major iron bridge.
+Darby's grandson, Abraham Darby III, built the Iron Bridge over the River Severn. It opened in 1781 and is often called the world's first major iron bridge.
 
 Cast iron resists crushing but is brittle: it can snap under sudden strain. Engineers needed a tougher metal.
 

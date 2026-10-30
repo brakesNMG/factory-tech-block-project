@@ -10,6 +10,8 @@ Darwin, Erasmus. *The Botanic Garden, a Poem in Two Parts. Part 1: The Economy o
 
 English Heritage. "Pioneers of Industry." *English Heritage*, www.english-heritage.org.uk/visit/places/iron-bridge/history.
 
+"Factory Act." *Encyclopaedia Britannica*, Encyclopaedia Britannica, Inc., www.britannica.com/print/article/200060.
+
 Grace's Guide. "John Kay (1704-1780)." *Grace's Guide to British Industrial History*, www.gracesguide.co.uk/John_Kay_(1704-1780).
 
 "Henry Cort." *Encyclopaedia Britannica*, Encyclopaedia Britannica, Inc., www.britannica.com/biography/Henry-Cort.

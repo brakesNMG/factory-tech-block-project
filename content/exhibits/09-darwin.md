@@ -11,7 +11,7 @@ Erasmus Darwin (1731-1802) was an English doctor, inventor and poet. In 1766 he 
 Part 1 of his long poem "The Botanic Garden", titled "The Economy of Vegetation", has a title page dated 1791. It contains a famous passage about the steam engine.
 
 ## Page: The passage
-Soon shall thy arm, UNCONQUER'D STEAM! afar
+Soon shall thy arm, Unconquer'd Steam! afar
 Drag the slow barge, or drive the rapid car;
 Or on wide-waving wings expanded bear
 The flying-chariot through the fields of air.

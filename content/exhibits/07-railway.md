@@ -14,7 +14,7 @@ In October 1829 the Rainhill Trials tested locomotives for the new railway. Robe
 Its top speed was close to 30 miles per hour, far faster than a horse.
 
 ## Page: Liverpool & Manchester Railway (1830)
-The line opened on 15 September 1830. It was the first intercity railway, the first to rely entirely on locomotives, and the first to run a scheduled passenger service.
+The line opened on 15 September 1830. It was the first intercity railway, and it ran scheduled passenger trains pulled by steam locomotives.
 
 It carried goods as well as passengers, and it became a model for railways around the world.
 
@@ -33,7 +33,7 @@ Q: What did the Liverpool & Manchester Railway demonstrate?
 - [ ] That horses were faster than steam
 - [x] That steam locomotives could run a regular passenger and freight service
 - [ ] That canals were no longer needed in northern England
-Explain: It was the first intercity line run entirely by locomotives to a timetable, carrying passengers and goods, and a model for later railways.
+Explain: It was the first intercity line to run scheduled passenger trains pulled by steam locomotives, carrying passengers and goods, and a model for later railways.
 
 ## Quiz
 Q: Why did mill owners want a faster link from Liverpool to Manchester?

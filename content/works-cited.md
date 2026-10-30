@@ -8,6 +8,7 @@ Only list sources you actually read or used.
 - Darwin, Erasmus. *The Botanic Garden, a Poem in Two Parts. Part 1: The Economy of Vegetation*. J. Johnson, 1791. *Project Gutenberg*, www.gutenberg.org/ebooks/9612.
 - "Edmund Cartwright." *Encyclopaedia Britannica*, Encyclopaedia Britannica, Inc., www.britannica.com/print/article/97553.
 - English Heritage. "Pioneers of Industry." *English Heritage*, www.english-heritage.org.uk/visit/places/iron-bridge/history.
+- "Factory Act." *Encyclopaedia Britannica*, Encyclopaedia Britannica, Inc., www.britannica.com/print/article/200060.
 - Grace's Guide. "John Kay (1704-1780)." *Grace's Guide to British Industrial History*, www.gracesguide.co.uk/John_Kay_(1704-1780).
 - "Henry Cort." *Encyclopaedia Britannica*, Encyclopaedia Britannica, Inc., www.britannica.com/biography/Henry-Cort.
 - "James Hargreaves." *Encyclopaedia Britannica*, Encyclopaedia Britannica, Inc., www.britannica.com/EBchecked/topic/255264.

@@ -9,7 +9,7 @@ art: notice
 Factory work was loud, hot, and dangerous, and shifts of twelve hours or more were common. Mill owners hired many children because they could be paid less, and their small size let them work between moving machinery.
 
 ## Page: Reformers speak out
-In 1832 a parliamentary committee led by Michael Sadler heard testimony from mill workers about long hours, injuries, and harsh discipline. Critics argued that some of its questions were leading, but the evidence helped build support for reform.
+In 1832 a parliamentary committee led by Michael Sadler heard testimony from mill workers about long hours, injuries, and harsh discipline. The evidence helped build support for reform.
 
 ## Page: The Factory Act of 1833
 The Act applied to textile mills. It banned the employment of children under nine and limited children aged nine to thirteen to nine hours a day. Children under thirteen also had to receive two hours of schooling each day.
@@ -17,12 +17,12 @@ The Act applied to textile mills. It banned the employment of children under nin
 It created paid FACTORY INSPECTORS to check that the rules were obeyed, an important step towards modern workplace safety law.
 
 ## Page: Who paid the price?
-The Act was a start, but it was limited. It covered textile mills only, and just four inspectors were responsible for roughly three thousand mills across the country.
+The Act was a start, but it was limited. It covered textile mills only, and just four inspectors were responsible for thousands of mills across the country.
 
 Some owners found ways around the rules, and stronger protections came only through later laws.
 
 ## Page: Sources
-The National Archives: "1833 Factory Act".
+The National Archives: "1833 Factory Act". Encyclopaedia Britannica: "Factory Act".
 
 Full details are in the Works Cited (press C).
 

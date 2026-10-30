@@ -6375,7 +6375,7 @@ In 1709 Abraham Darby began smelting iron at Coalbrookdale in Shropshire using C
 At first the iron suited cast goods such as pots and kettles. Over the following decades, cheaper iron spread into machinery.
 
 ## Page: Strength and its limits
-Darby's grandson, Abraham Darby III, built the Iron Bridge over the River Severn. It was completed in 1779 and opened in 1781, and it is often called the world's first major iron bridge.
+Darby's grandson, Abraham Darby III, built the Iron Bridge over the River Severn. It opened in 1781 and is often called the world's first major iron bridge.
 
 Cast iron resists crushing but is brittle: it can snap under sudden strain. Engineers needed a tougher metal.
 
@@ -6645,7 +6645,7 @@ In October 1829 the Rainhill Trials tested locomotives for the new railway. Robe
 Its top speed was close to 30 miles per hour, far faster than a horse.
 
 ## Page: Liverpool & Manchester Railway (1830)
-The line opened on 15 September 1830. It was the first intercity railway, the first to rely entirely on locomotives, and the first to run a scheduled passenger service.
+The line opened on 15 September 1830. It was the first intercity railway, and it ran scheduled passenger trains pulled by steam locomotives.
 
 It carried goods as well as passengers, and it became a model for railways around the world.
 
@@ -6664,7 +6664,7 @@ Q: What did the Liverpool & Manchester Railway demonstrate?
 - [ ] That horses were faster than steam
 - [x] That steam locomotives could run a regular passenger and freight service
 - [ ] That canals were no longer needed in northern England
-Explain: It was the first intercity line run entirely by locomotives to a timetable, carrying passengers and goods, and a model for later railways.
+Explain: It was the first intercity line to run scheduled passenger trains pulled by steam locomotives, carrying passengers and goods, and a model for later railways.
 
 ## Quiz
 Q: Why did mill owners want a faster link from Liverpool to Manchester?
@@ -6683,7 +6683,7 @@ art: notice
 Factory work was loud, hot, and dangerous, and shifts of twelve hours or more were common. Mill owners hired many children because they could be paid less, and their small size let them work between moving machinery.
 
 ## Page: Reformers speak out
-In 1832 a parliamentary committee led by Michael Sadler heard testimony from mill workers about long hours, injuries, and harsh discipline. Critics argued that some of its questions were leading, but the evidence helped build support for reform.
+In 1832 a parliamentary committee led by Michael Sadler heard testimony from mill workers about long hours, injuries, and harsh discipline. The evidence helped build support for reform.
 
 ## Page: The Factory Act of 1833
 The Act applied to textile mills. It banned the employment of children under nine and limited children aged nine to thirteen to nine hours a day. Children under thirteen also had to receive two hours of schooling each day.
@@ -6691,12 +6691,12 @@ The Act applied to textile mills. It banned the employment of children under nin
 It created paid FACTORY INSPECTORS to check that the rules were obeyed, an important step towards modern workplace safety law.
 
 ## Page: Who paid the price?
-The Act was a start, but it was limited. It covered textile mills only, and just four inspectors were responsible for roughly three thousand mills across the country.
+The Act was a start, but it was limited. It covered textile mills only, and just four inspectors were responsible for thousands of mills across the country.
 
 Some owners found ways around the rules, and stronger protections came only through later laws.
 
 ## Page: Sources
-The National Archives: "1833 Factory Act".
+The National Archives: "1833 Factory Act". Encyclopaedia Britannica: "Factory Act".
 
 Full details are in the Works Cited (press C).
 
@@ -6726,7 +6726,7 @@ Erasmus Darwin (1731-1802) was an English doctor, inventor and poet. In 1766 he 
 Part 1 of his long poem "The Botanic Garden", titled "The Economy of Vegetation", has a title page dated 1791. It contains a famous passage about the steam engine.
 
 ## Page: The passage
-Soon shall thy arm, UNCONQUER'D STEAM! afar
+Soon shall thy arm, Unconquer'd Steam! afar
 Drag the slow barge, or drive the rapid car;
 Or on wide-waving wings expanded bear
 The flying-chariot through the fields of air.
@@ -6886,6 +6886,7 @@ Only list sources you actually read or used.
 - Darwin, Erasmus. *The Botanic Garden, a Poem in Two Parts. Part 1: The Economy of Vegetation*. J. Johnson, 1791. *Project Gutenberg*, www.gutenberg.org/ebooks/9612.
 - "Edmund Cartwright." *Encyclopaedia Britannica*, Encyclopaedia Britannica, Inc., www.britannica.com/print/article/97553.
 - English Heritage. "Pioneers of Industry." *English Heritage*, www.english-heritage.org.uk/visit/places/iron-bridge/history.
+- "Factory Act." *Encyclopaedia Britannica*, Encyclopaedia Britannica, Inc., www.britannica.com/print/article/200060.
 - Grace's Guide. "John Kay (1704-1780)." *Grace's Guide to British Industrial History*, www.gracesguide.co.uk/John_Kay_(1704-1780).
 - "Henry Cort." *Encyclopaedia Britannica*, Encyclopaedia Britannica, Inc., www.britannica.com/biography/Henry-Cort.
 - "James Hargreaves." *Encyclopaedia Britannica*, Encyclopaedia Britannica, Inc., www.britannica.com/EBchecked/topic/255264.
