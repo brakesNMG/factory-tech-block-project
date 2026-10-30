@@ -19,7 +19,7 @@ The analysis in `content/exhibits/09-darwin.md` and `10-carlyle.md` is a startin
 
 1. Read the full poem and the full essay, then read each analysis page and check it against the text.
 2. Rewrite each technique page in your own words. Keep one quoted example per technique.
-3. Add or swap a technique if you spotted something better (for Darwin: the rhythm of the couplets, the word "flying-chariot"; for Carlyle: the capital letters on "Age" and "Machinery").
+3. Add or swap a technique if you spotted something better (for Darwin: the word "flying-chariot"; for Carlyle: the capital letters on "Age" and "Machinery").
 4. Be ready to explain every page out loud, because the rubric asks for *accurate* techniques.
 
 ## Works Cited
@@ -44,7 +44,7 @@ ask in plain English, for example:
 
 - "Rewrite the Water Frame lesson pages at a simpler reading level."
 - "Add a third quiz question about the Spinning Jenny."
-- "Explain the Carlyle parallelism page so I can present it, then help me rewrite it in my own words."
+- "Explain the Carlyle repetition page so I can present it, then help me rewrite it in my own words."
 - "Update Works Cited: I read pages 40-60 of Hudson, add that."
 
 Each of you works on your own branch (for example `you/edits` and `friend/edits`). Before you start, bring the latest `main`

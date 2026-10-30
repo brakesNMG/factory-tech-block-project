@@ -18,8 +18,8 @@ your journal. A Works Cited screen (MLA 9) is built in. **To edit the content, r
 | Power Loom | 1785 | Mechanised weaving and its social cost |
 | Locomotive | 1829 | Rocket and the Liverpool & Manchester Railway |
 | Factory Notice | 1833 | The Factory Act and the first inspectors |
-| Darwin: Steam Poem | 1791 | Literature: apostrophe, personification, prediction, heroic couplets |
-| Carlyle: Mechanical Age | 1829 | Literature: list and climax, double meaning, parallelism, tone |
+| Darwin: Steam Poem | 1791 | Literature: personification, prediction, rhyme, alliteration, tone |
+| Carlyle: Mechanical Age | 1829 | Literature: a list and a reveal, double meaning, repetition, tone |
 
 ## Run it
 

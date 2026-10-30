@@ -18,23 +18,23 @@ The flying-chariot through the fields of air.
 
 - Erasmus Darwin, "The Botanic Garden", Part 1, Canto I (1791)
 
-## Page: Technique: apostrophe and personification
-Darwin uses APOSTROPHE: he speaks straight to "Steam", as if it could hear him. He also uses PERSONIFICATION by giving steam an "arm" that can pull and push.
+## Page: Technique: personification
+Darwin speaks straight to "Steam", as if it could hear him. He also gives steam an "arm" that can pull and push. This is PERSONIFICATION: describing a thing as if it were a person.
 
 "Unconquer'd" is a word for a warrior. Steam becomes a hero that cannot be beaten, which shows how powerful Darwin thought the new engines were.
 
 ## Page: Technique: prediction and contrast
 "Soon shall" looks to the future, so the passage is a PREDICTION. Darwin pictures steam hauling boats and carriages, and even a "flying-chariot". Steam railways came in the 1820s, and powered flight more than a century later.
 
-He also sets "slow" barges against "rapid" cars. This CONTRAST shows old transport being left behind.
+He also sets "slow" barges against "rapid" cars. This CONTRAST shows old ways of travelling being left behind.
 
-## Page: Technique: sound and form
-The lines are HEROIC COUPLETS: pairs of rhyming lines ("afar" and "car", "bear" and "air") with a steady beat. This grand, ordered form was used for epic poems about heroes, so it gives the machine dignity.
+## Page: Technique: rhyme and sound
+The lines RHYME in pairs ("afar" and "car", "bear" and "air") and keep a steady beat. This makes the machine sound grand and important.
 
-ALLITERATION, the repeated first sound in "wide-waving wings", makes the flying image feel smooth and sweeping.
+ALLITERATION, the same sound at the start of nearby words, as in "wide-waving wings", makes the picture of flying feel smooth and sweeping.
 
 ## Page: Tone and message
-The TONE of these lines is proud, confident and excited. Darwin sees steam as a servant that will make travel faster. He does not mention smoke, danger or the workers who tend the engines.
+The TONE of these lines, which means the writer's attitude, is proud, confident and excited. Darwin sees steam as a servant that will make travel faster. He does not mention smoke, danger or the workers who tend the engines.
 
 That is ONE side of how people felt in 1791. Carlyle's essay, in the next exhibit, takes a very different view.
 
@@ -49,18 +49,18 @@ Read the poem yourself: Erasmus Darwin, "The Botanic Garden, a Poem in Two Parts
 Full details are in the Works Cited (press C).
 
 ## Quiz
-Q: What technique is Darwin using when he speaks directly to "Steam"?
-- [x] Apostrophe: speaking straight to a thing as if it could hear
-- [ ] Dialogue between two people
-- [ ] A literal weather report
-Explain: Speaking directly to something that cannot answer is apostrophe. It makes steam feel like a mighty person.
+Q: What is Darwin doing when he gives steam an "arm"?
+- [ ] Describing a real part of a steam engine
+- [x] Personification: describing steam as if it were a person
+- [ ] Showing that steam is weak
+Explain: Steam has no real arm. Giving it one is personification, and the word "unconquer'd" makes steam seem like a hero.
 
 ## Quiz
-Q: What does giving steam an "arm" show about how Darwin sees it?
-- [ ] It is a literal part of a steam engine
-- [x] Personification: steam is strong, like a person
-- [ ] It is weak and easily beaten
-Explain: Steam has no real arm. Giving it one is personification, and "unconquer'd" makes it a hero.
+Q: What does "Soon shall" tell us about the passage?
+- [ ] It describes something that already happened
+- [x] Darwin is predicting what steam will do in the future
+- [ ] It warns people to stay away from steam
+Explain: "Soon shall" looks ahead. Darwin predicts steam boats, carriages and even flight.
 
 ## Quiz
 Q: What is Darwin's tone toward steam in these lines?

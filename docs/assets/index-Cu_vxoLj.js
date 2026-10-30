@@ -6733,23 +6733,23 @@ The flying-chariot through the fields of air.
 
 - Erasmus Darwin, "The Botanic Garden", Part 1, Canto I (1791)
 
-## Page: Technique: apostrophe and personification
-Darwin uses APOSTROPHE: he speaks straight to "Steam", as if it could hear him. He also uses PERSONIFICATION by giving steam an "arm" that can pull and push.
+## Page: Technique: personification
+Darwin speaks straight to "Steam", as if it could hear him. He also gives steam an "arm" that can pull and push. This is PERSONIFICATION: describing a thing as if it were a person.
 
 "Unconquer'd" is a word for a warrior. Steam becomes a hero that cannot be beaten, which shows how powerful Darwin thought the new engines were.
 
 ## Page: Technique: prediction and contrast
 "Soon shall" looks to the future, so the passage is a PREDICTION. Darwin pictures steam hauling boats and carriages, and even a "flying-chariot". Steam railways came in the 1820s, and powered flight more than a century later.
 
-He also sets "slow" barges against "rapid" cars. This CONTRAST shows old transport being left behind.
+He also sets "slow" barges against "rapid" cars. This CONTRAST shows old ways of travelling being left behind.
 
-## Page: Technique: sound and form
-The lines are HEROIC COUPLETS: pairs of rhyming lines ("afar" and "car", "bear" and "air") with a steady beat. This grand, ordered form was used for epic poems about heroes, so it gives the machine dignity.
+## Page: Technique: rhyme and sound
+The lines RHYME in pairs ("afar" and "car", "bear" and "air") and keep a steady beat. This makes the machine sound grand and important.
 
-ALLITERATION, the repeated first sound in "wide-waving wings", makes the flying image feel smooth and sweeping.
+ALLITERATION, the same sound at the start of nearby words, as in "wide-waving wings", makes the picture of flying feel smooth and sweeping.
 
 ## Page: Tone and message
-The TONE of these lines is proud, confident and excited. Darwin sees steam as a servant that will make travel faster. He does not mention smoke, danger or the workers who tend the engines.
+The TONE of these lines, which means the writer's attitude, is proud, confident and excited. Darwin sees steam as a servant that will make travel faster. He does not mention smoke, danger or the workers who tend the engines.
 
 That is ONE side of how people felt in 1791. Carlyle's essay, in the next exhibit, takes a very different view.
 
@@ -6764,18 +6764,18 @@ Read the poem yourself: Erasmus Darwin, "The Botanic Garden, a Poem in Two Parts
 Full details are in the Works Cited (press C).
 
 ## Quiz
-Q: What technique is Darwin using when he speaks directly to "Steam"?
-- [x] Apostrophe: speaking straight to a thing as if it could hear
-- [ ] Dialogue between two people
-- [ ] A literal weather report
-Explain: Speaking directly to something that cannot answer is apostrophe. It makes steam feel like a mighty person.
+Q: What is Darwin doing when he gives steam an "arm"?
+- [ ] Describing a real part of a steam engine
+- [x] Personification: describing steam as if it were a person
+- [ ] Showing that steam is weak
+Explain: Steam has no real arm. Giving it one is personification, and the word "unconquer'd" makes steam seem like a hero.
 
 ## Quiz
-Q: What does giving steam an "arm" show about how Darwin sees it?
-- [ ] It is a literal part of a steam engine
-- [x] Personification: steam is strong, like a person
-- [ ] It is weak and easily beaten
-Explain: Steam has no real arm. Giving it one is personification, and "unconquer'd" makes it a hero.
+Q: What does "Soon shall" tell us about the passage?
+- [ ] It describes something that already happened
+- [x] Darwin is predicting what steam will do in the future
+- [ ] It warns people to stay away from steam
+Explain: "Soon shall" looks ahead. Darwin predicts steam boats, carriages and even flight.
 
 ## Quiz
 Q: What is Darwin's tone toward steam in these lines?
@@ -6805,25 +6805,25 @@ An essay is not a poem. Carlyle argues a point to persuade the reader, so we loo
 
 - Thomas Carlyle, "Signs of the Times" (1829)
 
-## Page: Technique: list and climax
-Carlyle first lists four ages he rejects: "Heroical, Devotional, Philosophical, or Moral". Only then does he name the "Mechanical Age". The LIST builds suspense, and the last word lands with force. That build-up is a CLIMAX.
+## Page: Technique: a list and a big reveal
+Carlyle names four labels that do not fit his age: "Heroical, Devotional, Philosophical, or Moral". Only then does he reveal "the Mechanical Age". Saving the key word for last makes it land with force.
 
-The "not... but" pattern is also an ANTITHESIS: it sets what the age is not against what it is.
+He also says what the age is NOT before what it IS ("not... but"). This CONTRAST makes his point stand out.
 
-## Page: Technique: double meaning
+## Page: Technique: two meanings
 Carlyle also calls his time "the Age of Machinery, in every outward and inward sense of that word". The word has two meanings. Outward means real machines such as looms and engines. Inward means a mechanical way of thinking and feeling.
 
 So "machine" is also a METAPHOR for how people live and think.
 
-## Page: Technique: parallelism and alliteration
-"Mechanical in head and in heart, as well as in hand" repeats the pattern "in head... in heart... in hand". This PARALLELISM is balanced and easy to remember. The repeated H sound is ALLITERATION.
+## Page: Technique: repetition and sound
+"Mechanical in head and in heart, as well as in hand" repeats the same pattern three times: "in head... in heart... in hand". This REPETITION is balanced and easy to remember. The repeated H sound is ALLITERATION.
 
 The order moves from thinking (head) to feeling (heart) to working (hand). Carlyle suggests machines affect the whole person, not just their jobs.
 
 ## Page: Voice and tone
-Carlyle writes "we", not "I". This inclusive FIRST PERSON PLURAL pulls the reader into the argument and makes the problem feel shared.
+Carlyle writes "we", not "I". This pulls the reader into the argument and makes the problem feel shared.
 
-The TONE is serious, formal and warning. He is not simply against machines. He worries about people starting to think like machines.
+The TONE, which means the writer's attitude, is serious and warning. He is not simply against machines. He worries about people starting to think like machines.
 
 ## Page: Compare with Darwin
 Darwin (1791) speaks to steam as a hero and predicts a bright future. Carlyle (1829) names a whole age "Mechanical" and worries about what it does to minds. Both are British writers reacting to the same inventions you have studied.
@@ -6843,18 +6843,18 @@ Q: What are the "outward" and "inward" senses of "the Age of Machinery"?
 Explain: Outward means real looms and engines. Inward means people thinking and feeling in a mechanical way.
 
 ## Quiz
-Q: Which technique is "in head and in heart, as well as in hand"?
+Q: What does the pattern "in head... in heart... in hand" use?
 - [ ] A simile using the word "like"
-- [x] Parallelism, with repeated "in" and the repeated H sound
-- [ ] A rhetorical question
-Explain: The repeated "in head... in heart... in hand" pattern is parallelism, and the repeated H sound is alliteration.
+- [x] Repetition of a pattern, plus the repeated H sound
+- [ ] A question that has no answer
+Explain: The same "in..." pattern repeats three times, and the repeated H sound is alliteration.
 
 ## Quiz
 Q: Why does Carlyle write "we" instead of "I"?
 - [x] To include the reader and make the problem feel shared
 - [ ] Because the essay had three authors
 - [ ] To hide his opinion
-Explain: The first person plural pulls the reader into the argument, so the warning feels like it is about everyone.
+Explain: Saying "we" pulls the reader into the argument, so the warning feels like it is about everyone.
 `;function Ot(b,W){throw new Error(`Content problem in ${b}: ${W}`)}const je=b=>b.replace(/\r/g,"").trim();function ke(b,W,H){const Z=W.replace(/\r/g,"").split(`
 `),Q=Z.findIndex(c=>/^# /.test(c));Q<0&&Ot(b,'the first line must be "# Exhibit name"');const j={id:b.replace(/^.*\//,"").replace(/\.md$/,"").replace(/^\d+-/,""),name:Z[Q].slice(2).trim(),pages:[],quiz:[],order:H},p=[];let S={head:null,body:[]};for(let c=Q+1;c<Z.length;c++)/^## /.test(Z[c])?(p.push(S),S={head:Z[c].slice(3).trim(),body:[]}):S.body.push(Z[c]);p.push(S);const t={};p[0].body.forEach(c=>{if(!c.trim())return;const h=c.match(/^([a-z]+):\s*(.*)$/i);h||Ot(b,`unexpected line before the first "##": "${c}". Details look like  year: 1733`),t[h[1].toLowerCase()]=h[2].trim()}),["year","by","summary","tile","art"].forEach(c=>{t[c]||Ot(b,`missing "${c}:" line near the top`)});const d=t.tile.split(",").map(c=>parseInt(c,10));return(d.length!==2||d.some(Number.isNaN))&&Ot(b,"tile must look like  tile: 5, 7"),j.year=parseInt(t.year,10),Number.isNaN(j.year)&&Ot(b,"year must be a number"),Object.assign(j,{inventor:t.by,summary:t.summary,tile:d,art:t.art}),t.activity&&(j.activity=t.activity),p.slice(1).forEach(c=>{const h=c.head.match(/^Page:\s*(.+)$/i);if(h){const r=je(c.body.join(`
 `));r||Ot(b,`page "${h[1]}" has no text`),j.pages.push({title:h[1].trim(),text:r})}else/^Quiz$/i.test(c.head)?j.quiz.push(qe(b,c.body)):Ot(b,`unknown section "## ${c.head}". Use "## Page: Title" or "## Quiz"`)}),j.pages.length||Ot(b,'needs at least one "## Page: ..." section'),j.quiz.length||Ot(b,'needs at least one "## Quiz" section'),j}function qe(b,W){const H={q:"",options:[],answer:-1,explain:""};let Z=null;return W.forEach(Q=>{const j=Q.trim();let p;(p=j.match(/^Q:\s*(.*)$/i))?(H.q=p[1],Z="q"):(p=j.match(/^- \[( |x|X)\]\s*(.*)$/))?(p[1].toLowerCase()==="x"&&(H.answer=H.options.length),H.options.push(p[2]),Z=null):(p=j.match(/^Explain:\s*(.*)$/i))?(H.explain=p[1],Z="explain"):j&&Z?H[Z]+=" "+j:j&&Ot(b,`quiz line not understood: "${j}"`)}),H.q||Ot(b,'a quiz is missing its "Q:" question line'),H.options.length!==3&&Ot(b,`quiz "${H.q.slice(0,40)}..." needs exactly 3 answers, found ${H.options.length}`),H.answer<0&&Ot(b,`quiz "${H.q.slice(0,40)}..." has no right answer. Mark one with "- [x]"`),(H.options.join("").match(/\[x\]/gi)||[]).length&&Ot(b,"only one answer may be marked right"),H.explain||Ot(b,`quiz "${H.q.slice(0,40)}..." is missing its "Explain:" line`),H}function _e(b){return b.replace(/\r/g,"").split(`
