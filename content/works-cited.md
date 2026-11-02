@@ -5,9 +5,7 @@ Only list sources you actually read or used.
 
 - Allen, Robert C. *The British Industrial Revolution in Global Perspective*. Cambridge UP, 2009.
 - Ashton, T. S. *The Industrial Revolution, 1760-1830*. Oxford UP, 1948.
-- Blake, William. "Preface." *Milton: A Poem*. 1808.
 - Cromford Mills. *Arkwright Society*, www.cromfordmills.org.uk.
-- Dickens, Charles. *Hard Times*. Bradbury & Evans, 1854.
 - Great Britain. Parliament. *An Act to Regulate the Labour of Children and Young Persons in the Mills and Factories of the United Kingdom*. 3 & 4 Will. IV c. 103, 1833.
 - Hills, Richard L. *Power from Steam: A History of the Stationary Steam Engine*. Cambridge UP, 1989.
 - Hudson, Pat. *The Industrial Revolution*. Edward Arnold, 1992.
